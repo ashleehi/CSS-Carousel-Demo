@@ -8,7 +8,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      background: linear-gradient(to bottom, #e2bf74, #de9755);
+      background: linear-gradient(to bottom, #cee1fe, #ffcfb1);
       font-family: 'Ropa Sans', sans-serif;
   }
 
@@ -52,7 +52,7 @@
       scroll-snap-align: start;
       flex-shrink: 0;
       width: 500px;
-      height: 500px;
+      height: 700px;
       border-radius: 10px;
       background: #eee;
       transform-origin: center center;
@@ -98,7 +98,7 @@
   }
 
   .slideshow-nav > a:hover {
-    background-color: aquamarine;
+    background-color: rgb(250, 209, 209);
 }
 
   .slideshow-nav > a:focus {
